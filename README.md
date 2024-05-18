@@ -1,6 +1,10 @@
 **Game Summary:**
 
 Welcome to AI Chasing Snake, an engaging and intelligent version of the classic Snake game implemented in Python using the Tkinter library. The game features an AI-controlled snake that strategically chases its tail or seeks out food using the A* algorithm, providing a challenging and intriguing gameplay experience.
+**image**
+![image](https://github.com/SameerKamani/AI-Chasing-Snake/assets/155903275/8b461861-98e3-49a2-aa65-988dff5e561d)
+
+
 
 **Key Features:**
 - **Intelligent Snake:** The snake employs A* algorithm to make decisions, choosing between tail-chasing and food-seeking strategies.
